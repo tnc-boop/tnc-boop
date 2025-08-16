@@ -1,102 +1,133 @@
-# 👨‍💻 Mykhailo Shchuka — Senior Fullstack & Mobile Developer
+# 🚀 Fullstack Developer & Tech Enthusiast
 
-Experienced Fullstack & Mobile Developer with a focus on scalable architecture, modern UI/UX, and high-performance mobile & web applications. Passionate about TypeScript, React ecosystems, clean code, and cloud-based infrastructures.
-
----
-
-## 🧠 Core Skills
-
-### ✅ Frontend Development
-
-**Languages**  
-TypeScript, JavaScript (ES2015–2024), HTML5, CSS3, Sass (SCSS), BEM methodology
-
-**Frameworks & Libraries**  
-React, Next.js (Pages & App Router up to v13), Redux, Redux Toolkit (Thunk & Saga), Zustand, Jotai, Recoil, MobX, RxJs, Module Federation (micro frontend)
-
-**UI Toolkits**  
-Material UI 4–7, Tailwind CSS, Styled Components, CSS Modules, CSS-in-JS, Storybook, Shadcn UI, Radix UI
-
-**Architecture & Design Patterns**  
-Component-Driven Development (CDD), Atomic Design, Feature-Sliced Design (FSD), Modular Architecture, Separation of Concerns (SoC), Smart/Dumb Components, Container/Presentational pattern, Context separation & state lifting
-
-**CMS & Integrations**  
-Storyblok, ButterCMS, Sanity, Contentful, Strapi, Headless WordPress  
-Firebase Functions, Firestore triggers, Firebase Hosting  
-LangChain, OpenAI API, Deepgram AI  
-Google Maps API, Meta/Facebook API, Stripe, Twilio, WhatsApp Business API
-
-**Testing**  
-Jest, React Testing Library, Cypress, Playwright, Puppeteer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+the+future%2C+one+commit+at+a+time;Fullstack+Development+%7C+Mobile+Apps+%7C+Cloud;Passionate+about+clean+code+and+innovation" alt="Typing SVG" />
+</div>
 
 ---
 
-### ✅ Backend Development
+## 🎯 About Me
 
-**Languages & Runtime**  
-Node.js (TypeScript & JavaScript), Python (basic), C/C++ (basic)
+I'm a passionate **Fullstack Developer** with expertise in building scalable web applications, mobile apps, and cloud solutions. I love turning complex problems into elegant, user-friendly solutions.
 
-**Frameworks & Tools**  
-Express.js, NestJS  
-REST API, WebSockets, Server-Sent Events (SSE)  
-Serverless Functions (Firebase, AWS Lambda)  
-Microservices, Modular Monoliths
+### 🛠️ Tech Stack
 
-**Authentication & Security**  
-JWT, Firebase Auth, OAuth2  
-RBAC, secure headers, rate limiting, input validation
+#### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Databases**  
-Firestore, Realtime Database  
-MongoDB (Mongoose), PostgreSQL  
-Pinecone Vector Database
+#### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**DevOps & Infra**  
-Firebase, Google Cloud Platform (Cloud Functions, Run, Scheduler, Pub/Sub)  
-AWS (Lambda, S3, EC2), Heroku, Vercel  
-CI/CD with GitHub Actions  
-Docker, Nginx (reverse proxy)  
-Monitoring: Sentry, LogRocket
+#### **Mobile Development**
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
----
-
-### ✅ Mobile Development
-
-**Frameworks**  
-React Native (Expo & CLI)  
-Flutter + Dart
-
-**Architecture & State Management**  
-Redux, Zustand, Jotai (React Native)  
-Riverpod, BLoC (Flutter)  
-Cross-platform navigation & API integration (Axios / Dio)  
-Device storage: AsyncStorage, SecureStore  
-Firebase Auth, FCM push notifications  
-Streams in Dart (asynchronous programming)  
-Optimized UI performance (FlatList, memoization)
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### ✅ Tools & Collaboration
+## 📊 GitHub Stats
 
-Git & GitHub, GitHub Actions  
-VS Code, Cursor, Xcode  
-Chrome DevTools (React, Redux, Network)  
-Figma, Adobe Photoshop, Adobe XD, Illustrator, Zeplin  
-Azure DevOps, Slack, Trello, Jira, Notion, ClickUp  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak" />
+</div>
 
----
-
-## 🧩 Methodologies & Principles
-
-Scrum, Agile methodologies  
-Object-Oriented Programming (OOP)  
-Understanding of platform-specific behaviors (Web, iOS, Android)  
-Asynchronous programming with Promises, Streams, and Observables  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+</div>
 
 ---
 
-## 💬 Let's Collaborate!
+## 🚀 Featured Projects
 
-I’m always open to exciting new projects — especially where high-performance UIs, clean code, and thoughtful architecture make a difference.  
-**Feel free to reach out!**
+<div align="center">
+  
+  ### 🌐 **E-Commerce Platform**
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  
+  A full-stack e-commerce solution with real-time inventory management, payment processing, and admin dashboard.
+  
+  ---
+  
+  ### 📱 **Task Management App**
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  
+  Cross-platform mobile app for team collaboration with real-time synchronization and offline support.
+  
+  ---
+  
+  ### ☁️ **Microservices API**
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  
+  Scalable microservices architecture with automated deployment and monitoring.
+  
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+- 🔥 Building a **real-time collaboration platform** using WebSockets and React
+- 📱 Developing a **cross-platform mobile app** with Flutter
+- ☁️ Architecting **cloud-native solutions** with AWS and Kubernetes
+- 🤖 Exploring **AI/ML integration** in web applications
+
+---
+
+## 🌟 Skills & Expertise
+
+- **Full-Stack Development** - End-to-end application development
+- **Mobile Development** - Native and cross-platform mobile apps
+- **Cloud Architecture** - Scalable and resilient cloud solutions
+- **DevOps & CI/CD** - Automated deployment and infrastructure management
+- **Database Design** - SQL and NoSQL database optimization
+- **API Development** - RESTful and GraphQL APIs
+- **Performance Optimization** - Frontend and backend optimization
+- **Security Best Practices** - Secure coding and application security
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1" alt="Profile Views" />
+  
+  **Open to new opportunities and exciting projects!** 🚀
+</div>
