@@ -1,133 +1,93 @@
-# 🚀 Fullstack Developer & Tech Enthusiast
+# 👋 Welcome! I'm a Dream Dev.  
+
+> "Talk is cheap. Show me the code." – Linus Torvalds  
+
+## About Me  
+I'm a self-taught **full-stack developer** passionate about building scalable solutions and turning complex challenges into elegant applications. I specialize in **modern web development, data analytics, and automation**, and I love using technology to solve real-world problems.  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Building+the+future%2C+one+commit+at+a+time;Fullstack+Development+%7C+Mobile+Apps+%7C+Cloud;Passionate+about+clean+code+and+innovation" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
 </div>
 
----
-
-## 🎯 About Me
-
-I'm a passionate **Fullstack Developer** with expertise in building scalable web applications, mobile apps, and cloud solutions. I love turning complex problems into elegant, user-friendly solutions.
-
-### 🛠️ Tech Stack
-
-#### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-#### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-#### **Mobile Development**
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-#### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Passionate+About+Code;Always+Learning;Keep+Calm+and+Code+On" alt="Typing SVG" />
+</div>  
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 Technical Expertise  
+
+### 🌐 Web Development  
+<p>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
+</p>  
+
+### 📊 Data Analytics  
+<p>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-%2344A833.svg?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" />
+</p>  
+
+### 🗄️ Database Management  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+</p>  
+
+### 🤖 Automation Tools  
+<p>
+  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-%23FFD43B.svg?style=flat&logo=python&logoColor=black" alt="BeautifulSoup" />
+</p>  
+
+---
+
+# 💻 My Favorite Tools & Technologies  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak" />
-</div>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>  
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>  
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>  
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/>  
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>  
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>  
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,vue,graphql,postgres,tailwind,bootstrap,git,github,wordpress" />
+</div>  
 
+---
+
+## 🏆 GitHub Trophies  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
+</div>  
 
 ---
 
-## 🚀 Featured Projects
-
+## 📊 GitHub Stats  
 <div align="center">
-  
-  ### 🌐 **E-Commerce Platform**
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  
-  A full-stack e-commerce solution with real-time inventory management, payment processing, and admin dashboard.
-  
-  ---
-  
-  ### 📱 **Task Management App**
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  
-  Cross-platform mobile app for team collaboration with real-time synchronization and offline support.
-  
-  ---
-  
-  ### ☁️ **Microservices API**
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-  
-  Scalable microservices architecture with automated deployment and monitoring.
-  
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=murapadev&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murapadev&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
+</div>  
 
 ---
 
-## 🎯 What I'm Working On
-
-- 🔥 Building a **real-time collaboration platform** using WebSockets and React
-- 📱 Developing a **cross-platform mobile app** with Flutter
-- ☁️ Architecting **cloud-native solutions** with AWS and Kubernetes
-- 🤖 Exploring **AI/ML integration** in web applications
-
----
-
-## 🌟 Skills & Expertise
-
-- **Full-Stack Development** - End-to-end application development
-- **Mobile Development** - Native and cross-platform mobile apps
-- **Cloud Architecture** - Scalable and resilient cloud solutions
-- **DevOps & CI/CD** - Automated deployment and infrastructure management
-- **Database Design** - SQL and NoSQL database optimization
-- **API Development** - RESTful and GraphQL APIs
-- **Performance Optimization** - Frontend and backend optimization
-- **Security Best Practices** - Secure coding and application security
-
----
-
-## 📫 Let's Connect
-
+## 🌐 Connect with Me  
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1" alt="Profile Views" />
-  
-  **Open to new opportunities and exciting projects!** 🚀
-</div>
+<img src="https://raw.githubusercontent.com/Dreaming-Codes/Dreaming-Codes/output/snake.svg" alt="Snake animation" />  
