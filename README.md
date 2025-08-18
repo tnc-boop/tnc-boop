@@ -1,9 +1,9 @@
-# 👋 Welcome! I'm a Dream Dev.  
+# 👋 Welcome! I'm Tung.  
 
 > "Talk is cheap. Show me the code." – Linus Torvalds  
 
 ## About Me  
-I'm a self-taught **full-stack developer** passionate about building scalable solutions and turning complex challenges into elegant applications. I specialize in **modern web development, data analytics, and automation**, and I love using technology to solve real-world problems.  
+I'm a **full-stack developer** passionate about building scalable solutions and turning complex challenges into elegant applications. I specialize in **modern web development, data analytics, and automation**, and I love using technology to solve real-world problems.  
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="200"/>
