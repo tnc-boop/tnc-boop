@@ -89,5 +89,3 @@ I'm a **full-stack developer** passionate about building scalable solutions and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnc-boop&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
 </div>  
 
----
-
