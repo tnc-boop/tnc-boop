@@ -73,11 +73,11 @@ I'm a **full-stack developer** passionate about building scalable solutions and 
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murapadev&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murapadev&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=tnc-boop&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnc-boop&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
 </div>  
 
 ---
 
 
-<img src="https://raw.githubusercontent.com/Dreaming-Codes/Dreaming-Codes/output/snake.svg" alt="Snake animation" />  
+<img src="https://raw.githubusercontent.com/tnc-boop/tnc-boop/output/snake.svg" alt="Snake animation" />  
