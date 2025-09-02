@@ -73,7 +73,7 @@ I'm a **full-stack developer** passionate about building scalable solutions and 
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tnc-boop&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=tung&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnc-boop&layout=compact&theme=radical" alt="Top Languages" height="160"/>  
 </div>  
 
