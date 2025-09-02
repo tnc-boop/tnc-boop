@@ -63,7 +63,7 @@ I'm a **full-stack developer** passionate about building scalable solutions and 
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>  
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>  
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>  
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/>  
